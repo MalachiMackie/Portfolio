@@ -8,7 +8,7 @@
 		{
 			name: 'Portfolio Website',
 			imageUrl: '',
-			repoUrl: '',
+			repoUrl: 'https://github.com/MalachiMackie/Portfolio',
 			smallDescription: 'Portfolio website to learn svelte',
 			description: '',
 			language: Language.typescript,
